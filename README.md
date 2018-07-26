@@ -1,4 +1,4 @@
-blog-api-fosrest
+symfony-blog-rest-api
 ================
 
-A Symfony project created on February 15, 2017, 10:40 am.
+A Symfony project created on July 26, 2018, 16:40 pm.
